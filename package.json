@@ -1,0 +1,31 @@
+{
+  "name": "puppetmaster",
+  "version": "1.0.0",
+  "description": "portal for for the layman to scrape data from the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "mastertest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kheisler4417/puppetMaster.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "web",
+    "scraping",
+    "easy",
+    "portal",
+    "layman"
+  ],
+  "author": "kheisler4417",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kheisler4417/puppetMaster/issues"
+  },
+  "homepage": "https://github.com/kheisler4417/puppetMaster#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.8.5"
+  }
+}
